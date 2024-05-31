@@ -1,0 +1,11 @@
+{
+  "name": "midtermproject_2101060016_phamthilananh",
+  "version": "1.0.0",
+  "description": "weather web",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Phạm Thị Lan Anh",
+  "license": "ISC"
+}
